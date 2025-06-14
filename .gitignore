@@ -1,0 +1,49 @@
+# ========== Unity 一般 ==========
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# ========== IDE / エディタ設定 ==========
+.vs/
+.vscode/
+.idea/
+
+*.sln
+*.csproj
+*.unityproj
+*.suo
+*.user
+*.userprefs
+*.tmp
+*.pidb
+*.svd
+*.sln.DotSettings
+*.Utmp/
+
+# ========== OS による不要ファイル ==========
+.DS_Store
+Thumbs.db
+
+# ========== 出力バイナリ・署名ファイル ==========
+*.apk
+*.aab
+*.keystore
+*.log
+*.hprof
+
+# ========== Android / Gradle ==========
+.gradle/
+*.gradle
+
+# ========== iOS / Xcode ==========
+Pods/
+DerivedData/
+xcuserdata/
+*.xcworkspace
+*.xcuserstate
+*.xcuserdatad
