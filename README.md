@@ -190,6 +190,13 @@ ImageCache/
 | リポジトリをクローン直後 | ❌ **ビルド不可** | 画像 / Prefab / TrueShadowなどが欠落しているため |
 | 配布 APK / TestFlight などバイナリ利用 | ✅ **実行のみ可** | 端末にインストールして動作確認が可能 |
 
+### 📦 配布バイナリ
+
+| プラットフォーム | 入手方法 | 備考 |
+|------------------|---------|------|
+| **iOS** | TestFlight からインストール<br>🔗 <https://testflight.apple.com/join/EQM3bd2Q> | Apple ID でログイン後、参加をタップ |
+| **Android** | APK を直接インストール<br>🔗 <https://drive.google.com/drive/folders/1Zr6jSzu8LZTCF0Eaj9QZ0nzhCK8mNAhm?usp=sharing> | “提供元不明アプリ” の許可が必要 |
+
 ### なぜ *コードだけ* 公開しているのか
 
 1. **フォルダ構造をシンプルに提示**し、ソースコードレビューをしやすくするため  
