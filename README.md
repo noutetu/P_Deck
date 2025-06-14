@@ -77,6 +77,7 @@ Cards/
         └── Enums.cs
 ```
 </details>
+
 <details>
 <summary>Assets/Scripts/Deck</summary>
 
@@ -146,6 +147,7 @@ CardUIManager/
     └── LazyLoadManager.cs
 ```
 </details>
+
 <details>
 <summary>Assets/Scripts/Common</summary>
 
@@ -159,6 +161,7 @@ Common/
     └── TogglePanel.cs
 ```
 </details>
+
 <details>
 <summary>Assets/Scripts/その他</summary>
 
