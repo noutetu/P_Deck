@@ -158,6 +158,4 @@ Pokémon、Nintendo、Creatures Inc.、GAME FREAK inc.、DeNA など関連各社
 万が一、権利者様より削除や非公開化などの要請を受けた際には、**速やかに該当データの削除・公開停止など適切な措置** を講じます。
 
 ---
-
-> **GitHub**: [https://github.com/noutetu/P\_Deck](https://github.com/noutetu/P_Deck)
-> **デモ動画**: [https://youtu.be/u2qqIGt1MHE](https://youtu.be/u2qqIGt1MHE)
+> **動作動画**: [https://youtu.be/u2qqIGt1MHE](https://youtu.be/u2qqIGt1MHE)
