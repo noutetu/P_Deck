@@ -139,9 +139,6 @@
 | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **iOS**     | TestFlight → [https://testflight.apple.com/join/EQM3bd2Q](https://testflight.apple.com/join/EQM3bd2Q)                                                                                   |
 | **Android** | APK 直リンク → [https://drive.google.com/drive/folders/1Zr6jSzu8LZTCF0Eaj9QZ0nzhCK8mNAhm?usp=sharing](https://drive.google.com/drive/folders/1Zr6jSzu8LZTCF0Eaj9QZ0nzhCK8mNAhm?usp=sharing) |
-
----
-
 ---
 ## ⚖️ ライセンス / 権利表記
 
