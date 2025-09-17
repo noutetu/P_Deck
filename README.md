@@ -80,7 +80,6 @@
     ライセンス上リポジトリへ同梱できません。  
   * 画像 / Prefab / Scene などのリソースも除外しています。
 * そのため **クローン直後に Unity で開いてもビルドはできません**。  
-  動作確認は下記の配布バイナリ (APK / TestFlight) をご利用ください。
 ---
 
 ## アーキテクチャ
@@ -125,21 +124,6 @@
 | **コメント規約**      | すべてのクラス / メソッドに “目的/処理”などを記述                 |
 
 ---
-
-## ビルド方針と配布バイナリ
-
-> **⚠ リポジトリには `.cs` & ドキュメントのみ**（画像・Prefab など無し）
-
-| シチュエーション       | ビルド可否       | 理由                |
-| -------------- | ----------- | ----------------- |
-| リポジトリ clone 直後 | ❌ **不可**    | TrueShadow や画像が欠落 |
-| 下記バイナリ利用       | ✅ **実行のみ可** | 端末にインストールして動作確認   |
-
-| プラットフォーム    | インストール方法                                                                                                                                                                                |
-| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **iOS**     | TestFlight → [https://testflight.apple.com/join/EQM3bd2Q](https://testflight.apple.com/join/EQM3bd2Q)                                                                                   |
-| **Android** | APK 直リンク → [https://drive.google.com/drive/folders/1Zr6jSzu8LZTCF0Eaj9QZ0nzhCK8mNAhm?usp=sharing](https://drive.google.com/drive/folders/1Zr6jSzu8LZTCF0Eaj9QZ0nzhCK8mNAhm?usp=sharing) |
----
 ## ⚖️ ライセンス / 権利表記
 
 Pokémon、Nintendo、Creatures Inc.、GAME FREAK inc.、DeNA など関連各社が保有する商標・著作権・その他一切の知的財産権は、すべて **権利者に帰属** します。本プロジェクトは **非公式の個人開発** であり、これらの権利を侵害する意図は一切ありません。
@@ -147,4 +131,4 @@ Pokémon、Nintendo、Creatures Inc.、GAME FREAK inc.、DeNA など関連各社
 万が一、権利者様より削除や非公開化などの要請を受けた際には、**速やかに該当データの削除・公開停止など適切な措置** を講じます。
 
 ---
-> **動作動画**: [https://youtube.com/shorts/GR6SsXOYB6c?si=BmKrA4wTPoU67YMw)
+> **動作動画**: [https://x.gd/37pPw)
